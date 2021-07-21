@@ -1,0 +1,16 @@
+R 1000 1000
+EA ./stone.xpm
+SO ./blue_stone.xpm
+NO ./diamond.xpm
+WE ./red_brick.xpm
+S ./spr.xpm
+F 156,156,156
+C 200,200,200
+
+1111111
+1000001
+1000001
+1E02221
+1002221
+1102221
+1111111
